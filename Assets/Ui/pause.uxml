@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0.78);">
+        <ui:Button display-tooltip-when-elided="true" name="PlayButton" style="-unity-font: url(&apos;project://database/Assets/Fonts/Oswald-Regular.ttf?fileID=12800000&amp;guid=0df625bbf0302fc4a85c3b3045db1613&amp;type=3#Oswald-Regular&apos;); -unity-font-style: bold; width: auto; flex-basis: auto; margin-left: auto; margin-right: auto; margin-top: auto; margin-bottom: auto; background-color: rgb(255, 92, 0); border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0; border-top-left-radius: 12px; border-bottom-left-radius: 12px; border-top-right-radius: 12px; border-bottom-right-radius: 12px; padding-left: 15px; padding-right: 15px; padding-top: 5px; padding-bottom: 5px;">
+            <ui:Label text="PLAY" display-tooltip-when-elided="true" name="Label" />
+        </ui:Button>
+    </ui:VisualElement>
+</ui:UXML>

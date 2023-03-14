@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5086308595000624363
+  m_GuidHigh: 16585496382472514487
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4693915458483396173
+      m_GuidHigh: 1033529023480435884
+    m_SerializedTextureGuid:
+      m_GuidLow: 17038283328463801156
+      m_GuidHigh: 14319515801190390427
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: healpot_raw
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5074498942268151820
+      m_GuidHigh: 4152967373397903529
+    m_SerializedTextureGuid:
+      m_GuidLow: 12683427236492522054
+      m_GuidHigh: 4743698802655946729
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: more ammo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5251055182189709150
+      m_GuidHigh: 18423389820382843526
+    m_SerializedTextureGuid:
+      m_GuidLow: 9503919305860547429
+      m_GuidHigh: 64742339850304171
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: more life
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5524812432513945161
+      m_GuidHigh: 5314346142906413990
+    m_SerializedTextureGuid:
+      m_GuidLow: 18393913640030565478
+      m_GuidHigh: 3809411416648731864
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: no texture
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5482563580749478209
+      m_GuidHigh: 17764019513345874330
+    m_SerializedTextureGuid:
+      m_GuidLow: 2131561949811935403
+      m_GuidHigh: 13253784185026856443
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: shield
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5355579877255103182
+      m_GuidHigh: 7811851884713552315
+    m_SerializedTextureGuid:
+      m_GuidLow: 15371960845176670453
+      m_GuidHigh: 15929257269919940586
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: shooting speed
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5300287150106681250
+      m_GuidHigh: 353221259872570789
+    m_SerializedTextureGuid:
+      m_GuidLow: 12120476477212431652
+      m_GuidHigh: 9963171526813000009
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: slow enemies
+    m_Texture: {fileID: 0}
